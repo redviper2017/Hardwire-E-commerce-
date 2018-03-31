@@ -1,0 +1,83 @@
+body{
+	padding-top: 50px;
+}
+
+#headerWrapper{
+	position: relative;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+	height: 851px;
+	background-image: url(../image/headerlogo/background.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 861px;
+	background-position: top center;
+	background-attachment: fixed;
+}
+
+#logotext{
+	position: absolute;
+	width: 100%;
+	height: 180px;
+	background-image: url(../image/headerlogo/text.PNG);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 27% 180px;
+}
+#partialheaderWrapper{
+	position: relative;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+	height: 210px;
+	background-image: url(../image/headerlogo/background.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 861px;
+	background-position: top center;
+	background-attachment: fixed;
+}
+
+#partiallogotext{
+	position: absolute;
+	width: 100%;
+	height: 180px;
+	background-image: url(../image/headerlogo/text.PNG);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 27% 180px;
+}
+
+
+.img-thumb{
+	width: auto;
+	height: 160px;
+}
+
+#footer{
+	margin-top: 50px;
+}
+
+img.details{
+	width: 110%;
+	margin: 15px auto;
+}
+
+.table-auto{
+	width: auto;
+	margin: 0 auto;
+}
+
+#add-product-btn{
+	margin-top: -55px; 
+}
+
+#login-form{
+	width: 50%;
+	height: 60%;
+	border: 2px solid #000;
+	border-radius: 15px;
+	box-shadow:7px 7px 15px rgba(0,0,0,0.6);
+	margin: 7% auto;
+	padding: 15px;
+	background-color: #fff;
+}
